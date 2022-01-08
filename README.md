@@ -23,7 +23,7 @@ For a more complete description of my research, head to https://giopaglia.github
 	+ Co-author: R. Altarabulsi
 
 ## 2018
-- [Optimization of Lattice Boltzmann simulations for Intel Xeon Phi ‘Knights Landing’](thesis-bachelor-lattice-boltzmann-unife-[it].pdf) (Bachelor Thesis, University of Ferrara, in Italian <img src="assets/it.svg" alt="" data-canonical-src="assets/it.svg" width="18" height="24" />)
+- [Optimization of Lattice Boltzmann simulations for Intel Xeon Phi ‘Knights Landing’](thesis-bachelor-lattice-boltzmann-unife-[it].pdf) (Bachelor Thesis, University of Ferrara, in Italian <img src="assets/it.svg" alt="" data-canonical-src="assets/it.svg" width="18" height="24" style="vertical-align: middle" />)
 <!-- <img src="assets/it.svg" alt="" data-canonical-src="assets/it.svg" width=".8em" height="1.07em" /> -->
 <!-- - ![](assets/it.svg =9x12) -->
 	+ Supervisor: A. Gabbana
