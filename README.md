@@ -1,5 +1,6 @@
 # myshelve
-Here are some things that I co-authored.
+Here are some things that I co-authored, some scientific, some less.
+For a more complete description of my research, head to https://giopaglia.github.io/#research.
 
 ## 2021
 - [Predicting Treatment Recommendation in Postmeopausal Osteoporosis](jbi2021.pdf). <strong>Journal of Biomedical Informatics</strong> 118, 12:1 - 12:10. G. Bonaccorsi, M. Giganti, M. Nitsenko, G. Pagliarini, G. Piva, and G. Sciavicco.
@@ -22,6 +23,6 @@ Here are some things that I co-authored.
 	+ Co-author: R. Altarabulsi
 
 ## 2018
-- [Optimization of Lattice Boltzmann simulations for Intel Xeon Phi ‘Knights Landing’](thesis-bachelor-lattice-boltzmann-unife-[it].pdf) (Bachelor Thesis, University of Ferrara, in Italian ![](http://usa.flagpedia.net/data/flags/mini/ca.png)) 
+- [Optimization of Lattice Boltzmann simulations for Intel Xeon Phi ‘Knights Landing’](thesis-bachelor-lattice-boltzmann-unife-[it].pdf) (Bachelor Thesis, University of Ferrara, in Italian <img src="http://usa.flagpedia.net/data/flags/mini/it.png" width=".8em" height="1.07em" />
 	+ Supervisor: A. Gabbana
 	+ Co-supervisor: S.F. Schifano
