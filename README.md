@@ -1,6 +1,5 @@
 # myshelve
 Here are some things that I co-authored.
-<!--Most of them in English, some of them in Italian.-->
 
 ## 2021
 - [Predicting Treatment Recommendation in Postmeopausal Osteoporosis](jbi2021.pdf). <strong>Journal of Biomedical Informatics</strong> 118, 12:1 - 12:10. G. Bonaccorsi, M. Giganti, M. Nitsenko, G. Pagliarini, G. Piva, and G. Sciavicco.
@@ -9,11 +8,20 @@ Here are some things that I co-authored.
 - [Multi-Frame Modal Symbolic Learning](overlay2021.pdf). CEUR Workshop Proceedings 2987, 37 - 41. Proceedings of the <em>3nd Workshop on Artificial Intelligence and Formal Verification, Logic, Automata, and Synthesis (OVERLAY 2021)</em>. G. Pagliarini, G. Sciavicco, and I.E. Stan.
 
 ## 2020
-- Master Thesis: [Interactionwise &ndash; Semantic Awareness for Visual Relationship Detection](thesis-master-interactionwise-vrd-unife.pdf)
+- [Interactionwise &ndash; Semantic Awareness for Visual Relationship Detection](thesis-master-interactionwise-vrd-unife.pdf) (Master Thesis, University of Gothenburg)
+	+ Supervisor: R. Johansson
+	+ Co-author: A. Imtiaz
 
 ## 2019
-- [Dimensionality reduction: a performance comparison of PCA, LDA and FJLT](algorithms-dim-reduction-comparison.pdf)
-- [Classifying Electrocardiograms Using Deep Learning](intro-to-ai-ecg-deep-learning.pdf)
+- [Dimensionality reduction: a performance comparison of PCA, LDA and FJLT](algorithms-dim-reduction-comparison.pdf) (group project, National University of Singapore)
+	+ Co-author: D. Corentin
+- [Classifying Electrocardiograms Using Deep Learning](intro-to-ai-ecg-deep-learning.pdf) (group project, University of Gothenburg)
+	+ Co-author: F. Kindström
+	+ Co-author: A. Håkansson
+	+ Co-author: S. Dinakaran
+	+ Co-author: R. Altarabulsi
 
 ## 2018
-- Bachelor Thesis (in Italian): [Optimization of Lattice Boltzmann simulations for Intel Xeon Phi ‘Knights Landing’](thesis-bachelor-lattice-boltzmann-unife-[it].pdf)
+- [Optimization of Lattice Boltzmann simulations for Intel Xeon Phi ‘Knights Landing’](thesis-bachelor-lattice-boltzmann-unife-[it].pdf) (Bachelor Thesis, University of Ferrara, in Italian ![](http://usa.flagpedia.net/data/flags/mini/ca.png)) 
+	+ Supervisor: A. Gabbana
+	+ Co-supervisor: S.F. Schifano
