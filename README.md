@@ -9,7 +9,7 @@ For a more complete description of my research, head to https://giopaglia.github
 - [Multi-Frame Modal Symbolic Learning](overlay2021.pdf). CEUR Workshop Proceedings 2987, 37 - 41. Proceedings of the <em>3nd Workshop on Artificial Intelligence and Formal Verification, Logic, Automata, and Synthesis (OVERLAY 2021)</em>. G. Pagliarini, G. Sciavicco, and I.E. Stan.
 
 ## 2020
-- [Interactionwise &ndash; Semantic Awareness for Visual Relationship Detection](thesis-master-interactionwise-vrd-unife.pdf) (Master Thesis, University of Gothenburg)
+- [Interactionwise &ndash; Semantic Awareness for Visual Relationship Detection](thesis-master-interactionwise-vrd-gu.pdf) (Master Thesis, University of Gothenburg)
 	+ Supervisor: R. Johansson
 	+ Co-author: A. Imtiaz
 
